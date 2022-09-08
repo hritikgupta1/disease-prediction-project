@@ -1,2 +1,3 @@
 # disease-prediction-project
 This is a project which tells the diseases according to their corresponding symptoms. It takes only 6 symptoms to tell six diseases. You have to enter six symptoms on small gui window which opens when this code will executed. All six symptoms should be filled if any symptoms remains empty then its corresponding prediction is not accurate. Plz give relevant symptoms otherwise prediction is not accurate.
+NOTE: You have to download python IDE from https://www.python.org to execute this file. Also download all libraries and modules related to this project.py file to successfully execute this project.Thankyou!
